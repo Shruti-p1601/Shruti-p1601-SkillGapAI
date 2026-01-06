@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillGapAI
 
 SkillGapAI is a Python-based project that analyzes the skill gap between a resume and a job description.
@@ -18,3 +19,7 @@ SkillGapAI is a Python-based project that analyzes the skill gap between a resum
 - Python
 - NLP basics
 - Git & GitHub
+=======
+# Shruti-p1601-SkillGapAI
+AI-based Resume Analyzer &amp; Skill Gap Detector
+>>>>>>> 6ad459fd9dce0eceeaa2906cba56998259ea78ba
