@@ -1,0 +1,3 @@
+John Doe is a Data Scientist with experience in Python, machine learning,
+deep learning, TensorFlow, SQL, and data visualization. Strong communication
+and problem-solving skills.
